@@ -1,6 +1,6 @@
 # pybind11-gdb-example
 
-- Install Python3 module [pybind11](https://pypi.org/project/pybind11/) (`pip3 install python3`)
+- Install the Python module [pybind11](https://pypi.org/project/pybind11/) (`pip3 install pybind11`)
 - Determine absolute path of the `python3` executable (needed for running gdb)
 - The location can usually be found by running `which python3`
   but if you use `pyenv`, you will have to run `pyenv which python3` instead
